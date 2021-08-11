@@ -1,4 +1,4 @@
-***HomeAssistant-ZHA-4-Gang-Zigbee-Switch-TS004F***
+# HomeAssistant-ZHA-4-Gang-Zigbee-Switch-TS004F
 
 After spending at least an hour or more running through the various threads regarding this 4-Gang switch, specifically the TS004F. I thought I would just put a concise rundown on how to get this working and the outcomes / limitations.
 
